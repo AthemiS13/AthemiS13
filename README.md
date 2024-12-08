@@ -27,12 +27,12 @@
 
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=athemis13&show_icons=true&locale=en" alt="athemis13" style="width: 100%;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=athemis13&theme=transparent&show_icons=true&locale=en" alt="athemis13" style="width: 100%;" />
 </p>
 
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=athemis13&show_icons=true&locale=en&layout=compact&card_width=450" alt="athemis13" style="width: 100%;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=athemis13&theme=transparent&show_icons=true&locale=en&layout=compact&card_width=450" alt="athemis13" style="width: 100%;" />
 </p>
 
 
