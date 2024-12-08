@@ -1,3 +1,4 @@
+![MasterHead](https://media1.tenor.com/m/OTFMVeqkvCYAAAAC/chip-chipset.gif)
 <h1 align="center">Hi 👋, I'm Jacob</h1>
 <h3 align="center">A dedicated electronics enthusiast from Czech Republic🌍</h3>
 
