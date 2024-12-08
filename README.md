@@ -1,4 +1,4 @@
-![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JncjhwMGQ3a2kyc2w5b3d4b2gza252and0aHF6Y2hrcWRrdTgwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.webp)
+![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJoaHR0YWhld3Q0Zzh0NGRmbDhvZWV4amN6cjRhamRvYXpveDY3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B1xUp52rUnrv1Leakw/giphy.webp)
 <h1 align="center">Hi 👋, I'm Jacob</h1>
 <h3 align="center">A dedicated electronics enthusiast from Czech Republic🌍</h3>
 
