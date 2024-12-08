@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **chmelar.projects@gmail.com**
 
-- ⚡ Fun fact **I run Arch btw**
+- ⚡ Fun fact: **I run Arch btw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
