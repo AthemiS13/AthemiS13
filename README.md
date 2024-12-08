@@ -32,7 +32,7 @@
 
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=athemis13&show_icons=true&locale=en&layout=compact&card_width=450" alt="athemis13" style="width: auto;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=athemis13&show_icons=true&locale=en&layout=compact&card_width=450" alt="athemis13" style="width: 3000px;" />
 </p>
 
 
