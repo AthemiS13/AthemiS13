@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [scribe](https://github.com/AthemiS13/scribe)
 
-- 🌱 I’m currently learning **PHP and c#**
+- 🌱 I’m currently learning **PHP and C#**
 
 - 📫 How to reach me **chmelar.projects@gmail.com**
 
