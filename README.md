@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athemis13&label=Profile%20views&color=0e75b6&style=flat" alt="athemis13" /> </p>
 
-- 🔭 I’m currently working on [scribe](https://github.com/AthemiS13/scribe)
+- 🔭 I’m currently working on [Flory](https://github.com/AthemiS13/flory)
 
 - 🌱 I’m currently learning **PHP and C#**
 
