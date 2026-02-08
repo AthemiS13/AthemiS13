@@ -1,6 +1,6 @@
 # Jakub Chmelar
 ### Hardware & Software Developer
-[**Portfolio**](https://athemis13.github.io/Portfolio/) | [**LinkedIn**](https://www.linkedin.com/in/jakub-chmela%C5%99-280212377/) | [**Email**](mailto:chmelar.projects@gmail.com)
+[**Portfolio**](https://athemis13.github.io/Portfolio/) | [**LinkedIn**](https://www.linkedin.com/in/jakub-chmelar/) | [**Email**](mailto:chmelar.projects@gmail.com)
 
 ---
 
